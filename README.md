@@ -1,5 +1,3 @@
-[![StyleCI](https://styleci.io/repos/38200433/shield)](https://styleci.io/repos/38200433)
-
 # ManipulacaoDados
 Manipulação de dados e persistência em base de dados relacional. O aplicativo tem o objetivo de realizar tratamento de arquivos textos, para transformar em arquivo.csv.
 
