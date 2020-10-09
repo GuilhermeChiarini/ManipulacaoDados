@@ -1,8 +1,8 @@
 # ManipulacaoDados
-Manipulação de dados e persistência em base de dados relacional
+Manipulação de dados e persistência em base de dados relacional. O aplicativo tem o objetivo de realizar tratamento de arquivos textos, para transformar em arquivo.csv.
 
 1. [Installation](#1-instalação)
-2. [Usage](2-usage)
+2. [Uso](2-uso)
 3. [Configuration](#3-configuration)
 
 ## 1. Instalação
@@ -10,4 +10,8 @@ Manipulação de dados e persistência em base de dados relacional
 1. Faça o chekout da pasta projetos;
 2. Vai conter o aplicativo ManipulacaoETL.exe, somente execute e seguir os demais procedimentos dos itens abaixo;
 
-## 2. M
+## 2. Uso
+
+1. Necessário conter um arquivo texto sua base de dados "base_teste.txt";
+2. Iremos carregar esse arquivo para o aplicativo;
+3. Clique em ##Script ETL##
