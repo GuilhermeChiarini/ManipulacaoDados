@@ -33,3 +33,6 @@ Salve seu arquivo tratado em seu diretório, para poder levar o script ao banco 
 - [x] Tratamento de ETL
 - [x] Gerador de scrip para insert
 - [ ] Criar parâmetros para deixar dinâmico as posições de campos
+
+## Banco de dados
+Estou disponibilizando uma base em Postgres com dados importados. Link para instalação do PGAdmin caso você não tenha: https://www.postgresql.org/download/
