@@ -14,4 +14,4 @@ Manipulação de dados e persistência em base de dados relacional. O aplicativo
 
 1. Necessário conter um arquivo texto sua base de dados "base_teste.txt";
 2. Iremos carregar esse arquivo para o aplicativo;
-3. Clique em ##Script ETL##
+3. Clique em **Script ETL
