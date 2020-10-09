@@ -22,3 +22,14 @@ Clique em "Script ETL" e aguarde o aplicativo a realizar:
 >> Carregamento de dados;
 > Validação de CPF e CNPJ;
 > Tratamento para geração de script via SQL para importação de dados via comando StructSQL; 
+
+## Após carregamento
+Salve seu arquivo tratado em seu diretório, para poder levar o script ao banco de dados relacional Postgres.
+
+## Coisas a fazer
+
+- [x] validação de CPF
+- [x] validação de CNPJ
+- [x] tratamento de ETL
+- [x] gerador de scrip para insert
+- [ ] criar parâmetros para deixar dinâmico as posições de campos
