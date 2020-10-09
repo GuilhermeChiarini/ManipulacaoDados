@@ -1,26 +1,13 @@
 # ManipulacaoDados
 Manipulação de dados e persistência em base de dados relacional
 
-1. [Installation](#1-installation)
+1. [Installation](#1-instalação)
 2. [Usage](2-usage)
 3. [Configuration](#3-configuration)
 
-## 1. Installation
+## 1. Instalação
 
-1. Require the package using composer:
+1. Faça o chekout da pasta projetos;
+2. Vai conter o aplicativo ManipulacaoETL.exe, somente execute e seguir os demais procedimentos dos itens abaixo;
 
-    ```
-    composer require jeroennoten/laravel-adminlte
-    ```
-
-2. Add the service provider to the `providers` in `config/app.php`:
-
-    ```php
-    JeroenNoten\LaravelAdminLte\ServiceProvider::class,
-    ```
-
-3. Publish the public assets:
-
-    ```
-    php artisan vendor:publish --provider="JeroenNoten\LaravelAdminLte\ServiceProvider" --tag=assets
-    ```
+## 2. M
