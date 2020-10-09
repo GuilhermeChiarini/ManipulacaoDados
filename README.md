@@ -1,5 +1,4 @@
 [![StyleCI](https://styleci.io/repos/38200433/shield)](https://styleci.io/repos/38200433)
-[![SensioLabsInsight](https://img.shields.io/sensiolabs/i/64be4634-446d-473b-b551-b4e4c0e3f97a.svg?style=flat-square)](https://www.postgresql.org/download/)
 
 # ManipulacaoDados
 Manipulação de dados e persistência em base de dados relacional. O aplicativo tem o objetivo de realizar tratamento de arquivos textos, para transformar em arquivo.csv.
