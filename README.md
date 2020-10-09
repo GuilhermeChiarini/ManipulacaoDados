@@ -1,9 +1,3 @@
-[![License][badge-1-img]][badge-1-link]
-[![go.dev][badge-2-img]][badge-2-link]
-[![Travis CI][badge-3-img]][badge-3-link]
-[![Codecov.io][badge-4-img]][badge-4-link]
-[![Go Report Card][badge-5-img]][badge-5-link]
-
 # ManipulacaoDados
 Manipulação de dados e persistência em base de dados relacional. O aplicativo tem o objetivo de realizar tratamento de arquivos textos, para transformar em arquivo.csv.
 
