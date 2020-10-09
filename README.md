@@ -3,7 +3,7 @@ Manipulação de dados e persistência em base de dados relacional. O aplicativo
 
 1. [Installation](#1-instalação)
 2. [Uso](#2-Uso)
-3. [Configuration](#3-configuration)
+3. [Operacacao](#3-Operação)
 
 ## 1. Instalação
 
@@ -14,6 +14,8 @@ Manipulação de dados e persistência em base de dados relacional. O aplicativo
 
 1. Necessário conter um arquivo texto sua base de dados "base_teste.txt";
 2. Iremos carregar esse arquivo para o aplicativo;
+
+## 3. Operação
 3. Clique em "Script ETL" e aguarde o aplicativo a realizar: 
 > Carregamento de dados;
 > Validação de CPF e CNPJ;
