@@ -17,6 +17,6 @@ Manipulação de dados e persistência em base de dados relacional. O aplicativo
 
 ## 3. Operação
 3. Clique em "Script ETL" e aguarde o aplicativo a realizar: 
-> Carregamento de dados;
+>> Carregamento de dados;
 > Validação de CPF e CNPJ;
 > Tratamento para geração de script via SQL para importação de dados via comando StructSQL; 
