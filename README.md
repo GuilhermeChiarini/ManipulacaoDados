@@ -1,9 +1,9 @@
 # ManipulacaoDados
 Manipulação de dados e persistência em base de dados relacional. O aplicativo tem o objetivo de realizar tratamento de arquivos textos, para transformar em arquivo.csv.
 
-1. [Installation](#1-instalação)
+1. [Instalação](#1-instalação)
 2. [Uso](#2-Uso)
-3. [Operacacao](#3-Operação)
+3. [Operação](#3-Operação)
 
 ## 1. Instalação
 
