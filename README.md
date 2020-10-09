@@ -37,5 +37,14 @@ Salve seu arquivo tratado em seu diretório, para poder levar o script ao banco 
 ## Banco de dados
 Estou disponibilizando uma base em Postgres com dados importados. Link para instalação do PGAdmin caso você não tenha: https://www.postgresql.org/download/
 
-## License
-This project code is in the public domain.
+Exemplo  
+
+```php
+'Script' => [
+insert into movimentacao ( tcpf, tprivate,  tinconpleto, ddatault_compra, ntickt_medio,  ntickt_ult_compra, tcnpj_loja_freq, tcnpj_loja_ult_compra)  values ('CPF','PRIVATE','INCOMPLETO','DATA DA AŠLTIMA COMPRA','TICKET MA‰DIO','TICKET DA AŠLTIMA','RA LOJA MAIS FREQUAŠ','NTE LOJA DA AŠLTIMA COM');
+insert into movimentacao ( tcpf, tprivate,  tinconpleto, ddatault_compra, ntickt_medio,  ntickt_ult_compra, tcnpj_loja_freq, tcnpj_loja_ult_compra)  values ('04109164125','0','0','NULL','NULL','NULL','NULL','NULL');
+insert into movimentacao ( tcpf, tprivate,  tinconpleto, ddatault_compra, ntickt_medio,  ntickt_ult_compra, tcnpj_loja_freq, tcnpj_loja_ult_compra)  values ('05818942198','0','0','NULL','NULL','NULL','NULL','NULL');
+insert into movimentacao ( tcpf, tprivate,  tinconpleto, ddatault_compra, ntickt_medio,  ntickt_ult_compra, tcnpj_loja_freq, tcnpj_loja_ult_compra)  values ('76901343949','0','0','NULL','NULL','NULL','NULL','NULL');
+
+]
+```
