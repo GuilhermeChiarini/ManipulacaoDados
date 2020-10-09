@@ -28,8 +28,8 @@ Salve seu arquivo tratado em seu diretório, para poder levar o script ao banco 
 
 ## Coisas a fazer
 
-- [x] validação de CPF
-- [x] validação de CNPJ
-- [x] tratamento de ETL
-- [x] gerador de scrip para insert
-- [ ] criar parâmetros para deixar dinâmico as posições de campos
+- [x] Validação de CPF
+- [x] Validação de CNPJ
+- [x] Tratamento de ETL
+- [x] Gerador de scrip para insert
+- [ ] Criar parâmetros para deixar dinâmico as posições de campos
